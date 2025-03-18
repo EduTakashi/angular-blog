@@ -1,0 +1,12 @@
+.container__big-card{
+  border: solid white 2px;
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.big-card__title > h1{
+  font-size: 25px;
+  margin-left: 30 px;
+}
